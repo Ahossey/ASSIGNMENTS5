@@ -1,0 +1,32 @@
+
+body{ 
+    background-color: lightcoral ;
+    color:black;
+}
+h2{
+    text-align: center;
+}
+a:hover{ 
+    color: red;
+}
+h2{
+    align-items: center;
+}
+#MENU {
+    border: 1px;
+    box-sizing: border-box;
+    height: auto;
+    width: 100%%;
+    left: 20%;
+
+    background-color: rgb(147, 147, 221);
+    position: sticky;
+    top: 0;
+}   
+footer{
+    padding: 3px;
+    background-color: lemonchiffon ;
+}
+header{
+    text-align: center;
+}
